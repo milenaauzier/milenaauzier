@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an economist. 
+I'm an data analyst and economist. 
 I create my visualizations using #Python, #Rstats and #Tableau. 
 
 
